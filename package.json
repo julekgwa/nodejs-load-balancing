@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-load-balancing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Junius Lekgwara",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ip": "^1.1.8"
+  },
+  "description": "Load balance Nodejs application with Nginx and PM2",
+  "repository": "https://github.com/julekgwa/nodejs-load-balancing.git"
+}
